@@ -2,3 +2,4 @@
 [1-complier](./1-compiler).
 [2-assembler](./2-assembler).
 [3-name](./3-name).
+[4-puts.c](./4-puts.c).
