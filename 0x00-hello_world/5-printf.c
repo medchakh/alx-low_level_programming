@@ -4,7 +4,7 @@
  * main - Entry point
  *
  * The function will output a string
- * Return: Always 
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
