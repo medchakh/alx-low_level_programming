@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - is Entry point
+ * main - is point
  *
- * The function will return  a string
- * Return: Always 0 
+ * The function will output a string
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
