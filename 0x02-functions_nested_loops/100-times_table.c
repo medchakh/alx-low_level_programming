@@ -1,11 +1,9 @@
-#include "holberton.h"
-
+#include "main.h"
 /**
  * print_times_table - prints the times table.
  * @i: input the times table (i x i).
  * Return: void
  */
-
 void print_times_table(int i)
 {
 	int rows, columns, times;
