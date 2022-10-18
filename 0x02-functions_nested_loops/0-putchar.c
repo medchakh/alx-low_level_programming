@@ -12,6 +12,7 @@ void print(void)
 	_putchar('T');
 	_putchar('C');
 	_putchar('H');
+	_putchar('A');
 	_putchar('R');
 	_putchar('\n');
 	return (0);
