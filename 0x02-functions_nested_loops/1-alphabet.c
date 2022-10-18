@@ -7,11 +7,16 @@
  */
 int main(void)
 {
-    char alpha;
+    void print_alpha(void){
+         char alpha;
 
 	for (alpha = 'a'; alpha <= 'z'; alpha++)
 		_putchar(alpha);
 
 	_putchar('\n');
+
+    }
+    print_alpha();
+   
     return 0;
 }
