@@ -2,7 +2,7 @@
 
 /**
  * main - check the code.
- * Description: return 0 success
+ * @c: The character to be checked
  * Return: Always 0.
  */
 int _islower(int c)
