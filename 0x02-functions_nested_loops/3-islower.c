@@ -1,11 +1,13 @@
 #include "main.h"
 
 /**
- * main - check the code.
- *_islower: character to be checked
- * @c: character input.
- * Return: Always 0.
+ * _islower - Check code
+ * @c: An input character
+ * Description: function uses _putchar function to print
+ * alphabet in lowercase 10 times
+ * Return: 1 if is lowercase or 0 if is uppercase
  */
+ 
 int _islower(int c)
 {
 	if (c >= 'a' && c <= 'z')
