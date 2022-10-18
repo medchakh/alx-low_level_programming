@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * print_to_98 - print all integer numbers, begin from input number stop at 98.
  * @n: the input number
