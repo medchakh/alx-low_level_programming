@@ -3,6 +3,7 @@
 /**
  * main - check the code.
  *_islower: character to be checked
+ * @c: character input.
  * Return: Always 0.
  */
 int _islower(int c)
