@@ -15,5 +15,4 @@ void print(void)
 	_putchar('A');
 	_putchar('R');
 	_putchar('\n');
-	return (0);
-}
+};
