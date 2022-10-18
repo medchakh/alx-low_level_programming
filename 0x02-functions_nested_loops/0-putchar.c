@@ -1,11 +1,11 @@
-#include <unistd.h>
 #include "main.h"
 /**
  * main - Entry point
  *
  * Return:  0 (done)
  */
-int main(void)
+
+void print(void)
 {
 	_putchar('H');
 	_putchar('o');
