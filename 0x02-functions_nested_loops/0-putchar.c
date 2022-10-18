@@ -7,16 +7,12 @@
 
 void print(void)
 {
+	_putchar('P');
+	_putchar('U');
+	_putchar('T');
+	_putchar('C');
 	_putchar('H');
-	_putchar('o');
-	_putchar('l');
-	_putchar('b');
-	_putchar('e');
-	_putchar('r');
-	_putchar('t');
-	_putchar('o');
-	_putchar('n');
+	_putchar('R');
 	_putchar('\n');
-
 	return (0);
 }
