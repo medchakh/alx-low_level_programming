@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * main - check the code.
+ * _isupper return 1 if c upper case or 0 if else
  * @c: the character to be checked
  * Return: Always 0.
  */
