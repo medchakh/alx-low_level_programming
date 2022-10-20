@@ -5,7 +5,6 @@
  *
  * Ruturn: void
  */
-
 void print_numbers(void)
 {
 	int c;
