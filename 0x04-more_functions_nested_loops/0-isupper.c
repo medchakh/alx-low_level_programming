@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * main - check the code.
- * c is an integer
+ * @c: the character to be checked
  * Return: Always 0.
  */
  int _isupper(int c)
