@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * print_triangle - a function that prints a triangle
- * @size: is the size of the triangle
- *
- * Return: void
+ * main - check the code
+ * @size : is int 
+ * Return: Always 0.
  */
 
 void print_triangle(int size)
