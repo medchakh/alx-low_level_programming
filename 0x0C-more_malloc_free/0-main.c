@@ -6,7 +6,7 @@
 /**
  * main - contains all files
  *
- * Return: Always (0)
+ * Return: Always 0
  */
 int main(void)
 {
